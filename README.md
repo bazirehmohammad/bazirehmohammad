@@ -32,4 +32,4 @@ under real-world noisy data conditions.
 I'm actively looking for **junior Data Science / ML roles** and
 open to **volunteer team projects** to grow my experience.
 
-📫 Reach me: [LinkedIn](#) | your.email@example.com
+📫 Reach me: bazireh.mohammad1995@gmail.com
