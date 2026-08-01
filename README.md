@@ -17,7 +17,7 @@ under real-world noisy data conditions.
 ---
 
 ## 🛠 Tech Stack
-- **Languages:** Python, SQL
+- **Languages:** Python
 - **ML/DL:** Scikit-learn, TensorFlow / PyTorch, NumPy, Pandas
 - **Tools:** Git, Jupyter, VS Code, LaTeX
 
