@@ -1,4 +1,3 @@
-markdown
 # Hi, I'm Mohammad Bazireh 👋
 
 I'm a self-taught Junior Data Scientist & ML Engineer based in Tehran.
