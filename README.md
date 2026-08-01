@@ -3,7 +3,7 @@ I'm Mohammad Bazireh, from tehran.
 I see myself as a Junior Data Scientist and M/L Engineer.
 I was a student at Tehran University, studying Metallurgy. But for reasons I couldn't end my education.
 I went other paths and yet on 2022 I started studying programming and statistics, which led to learning various contexts in math, statistics, M/L ,D/L, python programming and other things that will be shown to you if you continue with my Github Profile.
-I'm currently learning deeper and more complex in the areas mentioned before, and starting to learn some network and security material.
+I'm currently learning deeper and more complex issues in the areas mentioned before, and starting to learn some network and security material.
 I'm currently working on SVM and Noise-Robustness as a research. 
 I'm looking for a Junior DataSciense position and willing to work with teams voluntarily to enhance my resume.
 <!--
