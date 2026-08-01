@@ -1,22 +1,36 @@
-## Hi there 👋
-I'm Mohammad Bazireh, from tehran.
-I see myself as a Junior Data Scientist and M/L Engineer.
-I was a student at Tehran University, studying Metallurgy. But for reasons I couldn't end my education.
-I went other paths and yet on 2022 I started studying programming and statistics, which led to learning various contexts in math, statistics, M/L ,D/L, python programming and other things that will be shown to you if you continue with my Github Profile.
-I'm currently learning deeper and more complex issues in the areas mentioned before, and starting to learn some network and security material.
-I'm currently working on SVM and Noise-Robustness as a research. 
-I'm looking for a Junior DataSciense position and willing to work with teams voluntarily to enhance my resume.
-<!--
-**bazirehmohammad/bazirehmohammad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+markdown
+# Hi, I'm Mohammad Bazireh 👋
 
-Here are some ideas to get you started:
+I'm a self-taught Junior Data Scientist & ML Engineer based in Tehran.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My journey started in Metallurgy at the University of Tehran, but life
+took different turns — and in 2022 I found my real path in programming,
+mathematics, and machine learning. Since then I've been going deep:
+statistics, ML/DL, Python, and now network & security fundamentals.
+
+---
+
+## 🔬 Current Research
+Working on **Support Vector Machines (SVM)** with a focus on
+**noise-robustness** — exploring how models can stay reliable
+under real-world noisy data conditions.
+
+---
+
+## 🛠 Tech Stack
+- **Languages:** Python, SQL
+- **ML/DL:** Scikit-learn, TensorFlow / PyTorch, NumPy, Pandas
+- **Tools:** Git, Jupyter, VS Code, LaTeX
+
+---
+
+## 📌 Featured Projects
+> Check my pinned repos below ⬇️
+
+---
+
+## 🤝 Open to Collaborate
+I'm actively looking for **junior Data Science / ML roles** and
+open to **volunteer team projects** to grow my experience.
+
+📫 Reach me: [LinkedIn](#) | your.email@example.com
